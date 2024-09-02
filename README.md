@@ -1,2 +1,2 @@
 # Obesity-Prediction-among-Ever-married-Women
-This study was conducted for selecting optimal model and features for investigating overweight &amp; obesity using Machine Learning among ever-married women in Bangladesh
+This study was conducted to select the optimal models and features for investigating overweight & obesity using Machine Learning among ever-married women in Bangladesh from the national-representative survey data.
